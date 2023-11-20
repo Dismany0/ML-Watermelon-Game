@@ -7,6 +7,7 @@
  This project applies reinforcement learning to train a neural net that learns how to play the Suika Game. It was trained on a recreated version of the Suika Game designed in Unity. The results of the training can be viewed in the documented video below.
 
 <img src="https://user-images.githubusercontent.com/45763007/284110081-2b5f5605-c01e-4422-9184-9aec08117fe0.gif" height="500"/>
+
  ## How To Run
  In the releases there are two version provided, one which is playable, and one which is the an automatic version that utilizes a trained model. 
  In the playable version, the controls are as follows:
